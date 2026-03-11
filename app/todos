@@ -1,0 +1,14 @@
+Add splash screen (/)
+Use Hilt-DI (/)
+Add tests for persistence layer (/)
+Add UI-Tests
+Add "Spendier mir einen Kaffee"
+Test on multiple devices
+Fix vibrating dialog (/)
+Add i8n
+Use compose navigation and single activity
+Support orientation change
+Support larger Screens (Tablets)
+Add hints
+Check highscore calculation (> 999.999 should be impossible)
+Let user enter name on winning-screen and display names in highscores

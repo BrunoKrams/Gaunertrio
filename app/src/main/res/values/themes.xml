@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+            <item name="windowSplashScreenAnimatedIcon">@drawable/icon</item>
+            <item name="windowSplashScreenBackground">@color/light_blue_400</item>
+            <item name="postSplashScreenTheme">@style/Theme.Gaunertrio</item>
+        </style>
+    <style name="Theme.Gaunertrio" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@color/light_blue_400</item>
+        <item name="android:fontFamily">@font/super_boys</item>
+        <item name="fontFamily">@font/super_boys</item>
+    </style>
+</resources>
